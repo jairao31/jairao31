@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Jaiganesh Rao</h1>
-<h3 align="center">Aspiring Full Stack Developer | Graduate Student at Stevens Institute of Technology | Provost`s Masters Fellowship | Ex-LTI</h3>
+<h3 align="center">Aspiring Full Stack Developer | Graduate Student at Stevens Institute of Technology | Provost`s Masters Fellowship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairao31&label=Profile%20views&color=0e75b6&style=flat" alt="jairao31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jairao31" alt="jairao31" /></a> </p>
+- 👨‍💻 All of my projects are available at: [github.com/jairao31](https://github.com/jairao31)
 
-- 👨‍💻 All of my projects are available at [https://github.com/jairao31](https://github.com/jairao31)
+- 📫 How to reach me: **jai.31rao@gmail.com**
 
-- 📫 How to reach me **jai.31rao@gmail.com**
+- 📄 Know about my experiences: [MyPortfolio](https://jairao31.github.io/MyPortfolio/)
 
-- 📄 Know about my experiences [https://jairao31.github.io/MyPortfolio/](https://jairao31.github.io/MyPortfolio/)
-
-- ⚡ Fun fact **I like watching Anime**
+- ⚡ Fun fact: **I like watching Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaiganeshrao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaiganeshrao/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/jairao31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jairao31/" height="30" width="40" /></a>
+<a href="https://twitter.com/jairao31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jairao31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jaiganeshrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaiganeshrao" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19025834/jaiganesh-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19025834/jaiganesh-rao" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/jaiganeshrao31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jaiganeshrao31" height="30" width="40" /></a>
+<a href="https://instagram.com/jairao31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jairao31" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jai_31rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jai_31rao" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jairao31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jairao31" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
