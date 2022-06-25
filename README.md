@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairao31&label=Profile%20views&color=0e75b6&style=flat" alt="jairao31" /> </p>
 
+<img src="https://github.com/jairao31/jairao31/blob/main/Assets/emoji.png" align="right" width="25%"/>
+
 - 👨🏻‍💻 All of my projects are available at: [**github.com/jairao31**](https://github.com/jairao31)
 
 - 📫 How to reach me: **jai.31rao@gmail.com**
@@ -14,7 +16,6 @@
 
 - ⚡ Fun fact: **I like watching Anime**
 
-<img src="https://github.com/jairao31/jairao31/blob/main/Assets/emoji.png" align="right" width="25%"/>
 
 ## 🛠 Skills
 
