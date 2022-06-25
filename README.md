@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: **I like watching Anime**
 
-## Connect with me 😄
+## Connect with me <img align="center" src="https://github.com/jairao31/jairao31/blob/main/Assets/Handshake.gif" height="33px" />
 <p align="left">
 <a href="https://twitter.com/jairao31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jairao31" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaiganeshrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaiganeshrao" height="30" width="40" /></a>
