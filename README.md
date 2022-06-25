@@ -6,7 +6,7 @@
 
 <img src="https://github.com/jairao31/jairao31/blob/main/Assets/emoji.png" align="right" width="25%"/>
 
-- 👨🏻‍💻 All of my projects are available at: [**github.com/jairao31**](https://github.com/jairao31)
+- 👨🏻‍💻 All of my projects are available at:  [**Repo**](https://github.com/jairao31?tab=repositories)
 
 - 📫 How to reach me: **jai.31rao@gmail.com**
 
