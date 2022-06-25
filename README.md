@@ -1,6 +1,6 @@
 <br />
 <h1 align="center">Hi 👋, I'm Jaiganesh Rao</h1>
-<h3 align="center">Software Engineer | Graduate Student at Stevens Institute of Technology | Provost`s Masters Fellowship</h3>
+<h3 align="center">Software Engineer | Graduate Student at <a href="https://www.stevens.edu/">Stevens Institute of Technology </a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairao31&label=Profile%20views&color=0e75b6&style=flat" alt="jairao31" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences: [**MyPortfolio**](https://jairao31.github.io/MyPortfolio/)
 
-- 🧾 Check out my resume [**here**](https://github.com/jairao31/jairao31/blob/main/Assets/Jaiganesh_Rao_Resume2022.pdf)
+- 🧾 Check out my resume [**here**](https://jairao31.github.io/MyPortfolio/)
 
 - ⚡ Fun fact: **I like watching Anime**
 
