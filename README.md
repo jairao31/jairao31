@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact: **I like watching Anime**
 
+<br />
 
 ## 🛠 Skills
 
