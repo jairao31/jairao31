@@ -1,4 +1,3 @@
-<br />
 <h1 align="center">Hi 👋, I'm Jaiganesh Rao</h1>
 <h3 align="center">Software Engineer | Graduate Student at <a href="https://www.stevens.edu/">Stevens Institute of Technology </a></h3>
 
