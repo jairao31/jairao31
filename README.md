@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairao31&label=Profile%20views&color=0e75b6&style=flat" alt="jairao31" /> </p>
 
-<img src="https://github.com/jairao31/jairao31/blob/main/Assets/emoji.png" align="right" width="25%"/>
+<img src="https://github.com/jairao31/jairao31/blob/main/Assets/memoji.png" align="right" width="25%"/>
 
 - 👨🏻‍💻 All of my projects are available at:  [**Repo**](https://github.com/jairao31?tab=repositories)
 
