@@ -45,7 +45,7 @@
 <a href="https://redis.com/?utm_source=google&utm_medium=cpc&utm_term=redis&utm_campaign=evergreen-redis-brand-us-can-en&utm_content=redis-brand"><img src="https://cdn.cdnlogo.com/logos/r/3/redis.svg" alt="Redis" width="50" height="50"/></a>
 <a href="https://mui.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MaterialUI" width="50" height="50"/></a>
 <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/></a>
-<a href="https://chakra-ui.com/"><img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" alt="chakraUI" width="50" height="50"/></a>
+<a href="https://chakra-ui.com/"><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/ebe0041b1dfa30714634b39bb57cdb590e929529/logo/logomark-colored.svg" alt="chakraUI" width="50" height="50"/></a>
 <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50"/></a>
 </td>
 </tr>
