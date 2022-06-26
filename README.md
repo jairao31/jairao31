@@ -26,6 +26,7 @@
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
 <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="java" width="50" height="50"/></a>
 </td>
 </tr>
 
@@ -44,6 +45,7 @@
 <a href="https://redis.com/?utm_source=google&utm_medium=cpc&utm_term=redis&utm_campaign=evergreen-redis-brand-us-can-en&utm_content=redis-brand"><img src="https://cdn.cdnlogo.com/logos/r/3/redis.svg" alt="Redis" width="50" height="50"/></a>
 <a href="https://mui.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MaterialUI" width="50" height="50"/></a>
 <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/></a>
+<a href="https://chakra-ui.com/"><img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" alt="chakraUI" width="50" height="50"/></a>
 <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50"/></a>
 </td>
 </tr>
@@ -63,10 +65,12 @@
 <td><b>Misc.</b></td>
 <td>
 <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
-<a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/></a>
+<a href="https://aws.amazon.com/"><img src="https://www.drupal.org/files/project-images/aws-logo.png" alt="AWS" width="50" height="50"/></a>
 <a href="https://azure.microsoft.com/en-us/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/></a>
-<a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware" width="50" height="50"/></a>
+<a href="https://www.vmware.com/products/workstation-pro.html"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="workstation" width="50" height="50"/></a>
+<a href="https://docs.vmware.com/en/VMware-vSphere/index.html"><img src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo.png" alt="VSphere" width="50" height="50"/></a>
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
+<a href="https://www.netacad.com/courses/packet-tracer"><img src="https://www.logolynx.com/images/logolynx/af/af00470f005221e4a798701ab2327fc4.png" alt="Packet Tracer" width="50" height="50"/></a>
 <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
 <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="PS" width="50" height="50"/></a>
