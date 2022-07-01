@@ -13,7 +13,7 @@
 
 - 🧾 Check out my resume [**here**](https://github.com/jairao31/jairao31/blob/main/Assets/Jaiganesh_Rao_Resume2022.pdf)
 
-- ⚡ Fun fact: **I like watching Anime**
+- ⚡ Fun fact: **I like watching Anime ⛩️**
 
 <br />
 
