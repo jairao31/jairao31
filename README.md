@@ -9,9 +9,9 @@
 
 - 📫 How to reach me: **jai.31rao@gmail.com**
 
-- 📄 Know about my experiences: [**MyPortfolio**](https://jairao31.github.io/MyPortfolio/)
+<!-- - 📄 Know about my experiences: [**MyPortfolio**](https://jairao31.github.io/MyPortfolio/) -->
 
-- 🧾 Check out my resume [**here**](https://github.com/jairao31/jairao31/blob/main/Assets/Jaiganesh_Rao_Resume2022.pdf)
+<!-- - 🧾 Check out my resume [**here**](https://github.com/jairao31/jairao31/blob/main/Assets/Jaiganesh_Rao_Resume2022.pdf) -->
 
 - ⚡ Fun fact: **I like watching Anime ⛩️**
 
