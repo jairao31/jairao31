@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [**MyPortfolio**](https://jaiganesh-rao.vercel.app/)
 
-- 🧾 Check out my resume [**here**](https://github.com/jairao31/jairao31/blob/main/Assets/Jaiganesh_Rao_resume.pdf)
+- 🧾 Check out my resume [**here**](https://github.com/jairao31/jairao31/blob/main/Assets/Jaiganesh_Rao_Resume.pdf)
 
 - ⚡ Fun fact: **I like watching Anime ⛩️**
 
