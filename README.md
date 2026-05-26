@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jaiganesh%20Rao&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI-Augmented%20Development%20%7C%20Insurtech%20%26%20Fintech&descSize=16&descAlignY=58&descColor=a0c4ff" />
+<h1>Jaiganesh Rao</h1>
+<h3>Senior Full Stack Engineer &nbsp;|&nbsp; AI-Augmented Development &nbsp;|&nbsp; Insurtech & Fintech</h3>
 
 <a href="https://jaiganesh-rao.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+products+that+scale+%F0%9F%9A%80;AI-augmented+engineering+pioneer+%F0%9F%A4%96;6%2B+years+%7C+insurtech+%7C+fintech+%7C+SaaS;30%2C000%2B+agents+served+in+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+products+that+scale+%F0%9F%9A%80;AI-augmented+engineering+pioneer+%F0%9F%A4%96;6%2B+years+%7C+insurtech+%7C+fintech+%7C+SaaS;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -162,11 +163,11 @@ Notable production work at Afficiency:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jairao31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairao31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jairao31&theme=tokyonight" height="165" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jairao31&theme=tokyonight" height="165" alt="Top Languages"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairao31&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jairao31&theme=tokyonight" alt="GitHub Activity" width="100%"/>
 </div>
 
 ---
@@ -175,3 +176,15 @@ Notable production work at Afficiency:
 
 <p align="left">
 <a href="https://linkedin.com/in/jaiganeshrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaiganeshrao" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19025834/jaiganesh-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jaiganesh-rao" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jairao31" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="jairao31" height="35" width="35" /></a>
+<a href="https://www.hackerrank.com/jai_31rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jai_31rao" height="30" width="40" /></a>
+<a href="https://twitter.com/jairao31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jairao31" height="30" width="40" /></a>
+<a href="https://instagram.com/jairao31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jairao31" height="30" width="40" /></a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jairao31&theme=tokyonight" alt="Productive Time"/>
+</div>
