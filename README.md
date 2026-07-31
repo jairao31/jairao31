@@ -40,7 +40,7 @@ $ git log --author="jai" --highlights
 - 🤖 **Agentic AI SOP** — specs & BRDs as AI input artifacts before any code; large features in ~1 week, small ones same-day
 - 🏗️ **Monitorly** — in-house session replay & observability platform that replaced LogRocket (−40% tooling costs)
 - ☁️ **AWS → Azure migration in 3 days** — AI-assisted, including MySQL/Redis → PostgreSQL/Valkey
-- 🕵️ **Fraud detection** on a live $5–8M premium platform — LexisNexis, GIACT, velocity checks; zero standing fraud cases
+- 🕵️ **Fraud detection & underwriting verification** on a live $5–8M premium platform — LexisNexis, GIACT, MVR, MIB, FHIR-based EHR integrations, velocity checks; zero standing fraud cases
 - 🎫 **AffiHub** — internal ticketing & workflow automation that replaced the team's HubSpot subscription
 - 🎓 **MS Computer Science**, Stevens Institute of Technology — GPA 3.84, Provost's Scholarship
 
@@ -72,6 +72,7 @@ $ git log --author="jai" --highlights
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=E10098)
+![FHIR](https://img.shields.io/badge/FHIR-0d1117?style=flat-square&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white)
 
 </td>
