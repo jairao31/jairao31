@@ -7,7 +7,7 @@ jai@github:~$ whoami
 # I build products that ship.
 
 <a href="https://jaiganesh-rao.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4ADE80&center=true&vCenter=true&width=620&lines=%24+git+push;Senior+Full+Stack+Engineer+%C2%B7+6%2B+years;insurtech+%C2%B7+fintech+%C2%B7+enterprise+SaaS;agentic+AI+workflows+with+Claude+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4ADE80&center=true&vCenter=true&width=620&lines=%24+git+push;Full+Stack+Developer+%C2%B7+5%2B+years;insurtech+%C2%B7+fintech+%C2%B7+enterprise+SaaS;agentic+AI+workflows+with+Claude+Code" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,9 +27,9 @@ jai@github:~$ whoami
 
 <img src="https://raw.githubusercontent.com/jairao31/jairao31/main/Assets/memoji.png" align="right" width="20%"/>
 
-**Jaiganesh Rao** · Senior Full Stack Engineer · Jersey City, NJ
+**Jaiganesh Rao** · Full Stack Developer · Jersey City, NJ
 
-6+ years shipping production systems across **insurtech, fintech, and enterprise SaaS** — from carrier-scale insurance platforms to agentic-AI workflows that turn weeks of process into days.
+5+ years shipping production systems across **insurtech, fintech, and enterprise SaaS** — from carrier-scale insurance platforms to agentic-AI workflows that turn weeks of process into days.
 
 At **Afficiency**, I architected a schema-driven React + Flask platform serving **30,000+ insurance agents** across **6+ carrier integrations**, processing ~**$5M in annual premium**. I co-built a team-wide agentic AI engineering SOP with **Claude Code** that cut feature delivery time by **~70%** — with near-zero bug rates and end-to-end Playwright coverage on every feature.
 
@@ -40,7 +40,8 @@ $ git log --author="jai" --highlights
 - 🤖 **Agentic AI SOP** — specs & BRDs as AI input artifacts before any code; large features in ~1 week, small ones same-day
 - 🏗️ **Monitorly** — in-house session replay & observability platform that replaced LogRocket (−40% tooling costs)
 - ☁️ **AWS → Azure migration in 3 days** — AI-assisted, including MySQL/Redis → PostgreSQL/Valkey
-- 🕵️ **Fraud detection & underwriting verification** on a live $5–8M premium platform — LexisNexis, GIACT, MVR, MIB, FHIR-based EHR integrations, velocity checks; zero standing fraud cases
+- 🕵️ **Fraud detection & underwriting verification** on a live $5–8M premium platform — LexisNexis, GIACT, MVR, MIB, FHIR-based EHR integrations, velocity checks; fully digital decisions in <10 min, zero standing fraud cases
+- 🏛️ **Underwriting Portal & UW-Studio** — RBAC-governed case management/decisioning for 20,000+ agents, plus a no-code carrier-integration config layer
 - 🎫 **AffiHub** — internal ticketing & workflow automation that replaced the team's HubSpot subscription
 - 🎓 **MS Computer Science**, Stevens Institute of Technology — GPA 3.84, Provost's Scholarship
 
@@ -143,7 +144,8 @@ Full-stack team workspace with real-time encrypted group chat, task management, 
 - **Monitorly** — session replay & observability (LogRocket alternative, −40% costs)
 - **AffiHub** — support ticketing & CRM (HubSpot alternative)
 - **Application 360** — L2 diagnostic tool: status, errors & sessions in one view
-- **AI PDF Engine** — Claude reverse-engineers insurance forms into HTML templates, rendered to production PDFs at scale
+- **AI PDF Engine** — Claude reverse-engineers insurance forms into HTML/Jinja2 + WeasyPrint templates; 120+ forms across 4 products, ~90% faster form dev
+- **Underwriting Portal & UW-Studio** — RBAC case management/decisioning + no-code carrier-integration config layer
 
 </td>
 </tr>
