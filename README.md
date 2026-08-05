@@ -7,7 +7,7 @@ jai@github:~$ whoami
 # I build products that ship.
 
 <a href="https://jaiganesh-rao.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4ADE80&center=true&vCenter=true&width=620&lines=%24+git+push;Full+Stack+Developer+%C2%B7+5%2B+years;insurtech+%C2%B7+fintech+%C2%B7+enterprise+SaaS;agentic+AI+workflows+with+Claude+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4ADE80&center=true&vCenter=true&width=620&lines=%24+git+push;Full+Stack+Developer+%7C+Applied+AI;insurtech+%C2%B7+fintech+%C2%B7+enterprise+SaaS;agentic+AI+workflows+with+Claude+Code" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,9 +27,9 @@ jai@github:~$ whoami
 
 <img src="https://raw.githubusercontent.com/jairao31/jairao31/main/Assets/memoji.png" align="right" width="20%"/>
 
-**Jaiganesh Rao** · Full Stack Developer · Jersey City, NJ
+**Jaiganesh Rao** · Full Stack Developer | Applied AI · Jersey City, NJ
 
-5+ years shipping production systems across **insurtech, fintech, and enterprise SaaS** — from carrier-scale insurance platforms to agentic-AI workflows that turn weeks of process into days.
+6+ years shipping production systems across **insurtech, fintech, and enterprise SaaS** — from carrier-scale insurance platforms to agentic-AI workflows that turn weeks of process into days.
 
 At **Afficiency**, I architected a schema-driven React + Flask platform serving **30,000+ insurance agents** across **6+ carrier integrations**, processing ~**$5M in annual premium**. I co-built a team-wide agentic AI engineering SOP with **Claude Code** that cut feature delivery time by **~70%** — with near-zero bug rates and end-to-end Playwright coverage on every feature.
 
@@ -38,7 +38,7 @@ $ git log --author="jai" --highlights
 ```
 
 - 🤖 **Agentic AI SOP** — specs & BRDs as AI input artifacts before any code; large features in ~1 week, small ones same-day
-- 🏗️ **Monitorly** — in-house session replay & observability platform that replaced LogRocket (−40% tooling costs)
+- 🏗️ **Monitorly** — in-house session replay & observability platform that replaced LogRocket (−40% tooling costs, −70% agent-reported issues via an automated feedback loop)
 - ☁️ **AWS → Azure migration in 3 days** — AI-assisted, including MySQL/Redis → PostgreSQL/Valkey
 - 🕵️ **Fraud detection & underwriting verification** on a live $5–8M premium platform — LexisNexis, GIACT, MVR, MIB, FHIR-based EHR integrations, velocity checks; fully digital decisions in <10 min, zero standing fraud cases
 - 🏛️ **Underwriting Portal & UW-Studio** — RBAC-governed case management/decisioning for 20,000+ agents, plus a no-code carrier-integration config layer
@@ -72,6 +72,7 @@ $ git log --author="jai" --highlights
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=E10098)
 ![FHIR](https://img.shields.io/badge/FHIR-0d1117?style=flat-square&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white)
@@ -83,6 +84,8 @@ $ git log --author="jai" --highlights
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=D97706)
 ![Claude API](https://img.shields.io/badge/Claude_API-0d1117?style=flat-square&logo=anthropic&logoColor=C05621)
+![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat-square&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-0d1117?style=flat-square&logo=openai&logoColor=412991)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logoColor=white)
@@ -98,6 +101,8 @@ $ git log --author="jai" --highlights
 ![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Rancher](https://img.shields.io/badge/Rancher-0d1117?style=flat-square&logo=rancher&logoColor=0075A8)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=F46800)
 ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=2EAD33)
 
 </td>
@@ -143,7 +148,7 @@ Full-stack team workspace with real-time encrypted group chat, task management, 
 
 - **Monitorly** — session replay & observability (LogRocket alternative, −40% costs)
 - **AffiHub** — support ticketing & CRM (HubSpot alternative)
-- **Application 360** — L2 diagnostic tool: status, errors & sessions in one view
+- **Application 360** — AI-powered ops dashboard: every data source in one investigator screen with a human-readable diagnosis engine, −80% incident triage time
 - **AI PDF Engine** — Claude reverse-engineers insurance forms into HTML/Jinja2 + WeasyPrint templates; 120+ forms across 4 products, ~90% faster form dev
 - **Underwriting Portal & UW-Studio** — RBAC case management/decisioning + no-code carrier-integration config layer
 
